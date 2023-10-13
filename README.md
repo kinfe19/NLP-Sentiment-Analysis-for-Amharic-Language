@@ -113,9 +113,22 @@ What I learned is that the most difficult part of NLP is the data extraction and
 - [ ]  Work on improving it's accuracy
 - [ ]  Built different types of NLP models and compare their accuracies for the given data
 
-# How to run the code
+# Code Execution Guide
 
-You can run EDA, models and preprocess part from the colab notebooks. Which are located in their designated folders. Description is also on the readmes of the folders.
+To execute the code for this project, follow these steps. You can perform Exploratory Data Analysis (EDA), work with the models, and preprocess the data using Google Colab notebooks provided in their respective folders. Additionally, you'll find detailed instructions in the corresponding folder readmes.
+
+## Exploratory Data Analysis (EDA)
+Navigate to the `EDA` folder and open the Colab notebook titled `EDA.ipynb` for in-depth data exploration.
+
+## Model Development
+For building and training models, explore the `Models` folder, and you'll find various Colab notebooks tailored for this purpose.
+
+## Data Preprocessing
+To preprocess the data, head over to the `Preprocess` folder and access the `Preprocess.ipynb` Colab notebook. It will guide you through data cleaning and transformation steps.
+
+Remember to install any required dependencies, libraries, or packages before running the code. Detailed setup instructions can be found in each folder's README file.
+
+Happy coding!
 
 # Resources
 
