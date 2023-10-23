@@ -130,7 +130,8 @@ Remember to install any required dependencies, libraries, or packages before run
 
 Happy coding!
 
-# Resources
+<a href="https://github.com/kinfe19">My GitHub Profile</a>
+
 
 [https://linguaphiles.livejournal.com/716083.html](https://linguaphiles.livejournal.com/716083.html)
 
